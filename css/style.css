@@ -1,0 +1,77 @@
+.wp-header 
+{
+	text-align: center;
+	margin: 15rem;
+
+}
+.red-header {
+	color:red;
+	
+}
+.coc {
+	
+	height: 260px;
+	width: 260px;
+	background-color: #4EB2F7;
+	padding-top: 50px;
+
+}
+.koimona {
+	height: 260px;
+	width: 260px;
+	background-color: #C049F8;
+	padding-top: 50px;
+
+}
+.setting {
+	height: 260px;
+	width: 260px;
+	background-color: #817EFF;
+	padding-top: 50px;
+}
+.img {
+	height: 260px;
+	width: 260px;
+	background-color: #F74770;
+	padding-top: 50px;
+}
+button {
+	height: 50px;
+	width: 230px;
+	position: absolute;
+	border-radius: 20px;
+	right: 10px;
+	bottom: 15px;
+	right:15px ;
+	background-color: white;
+	border:none;
+	font-size: 30px;
+}
+h1 { 
+font-weight: : 100px; 
+}
+.wrapper {
+	position: relative;
+	height: 300px;
+	text-align: center;
+
+} 
+.fas {
+	
+	top: 20px;
+	font-size: 5rem;
+}
+button:hover { 
+	background-color:#668874;
+	transition: background-color 1s;
+ }
+ .headertext {
+ 	color: #939393;
+ }
+ .header {
+ 	font-size: 50px;
+ }
+ .fa-camera-retro:hover {
+  transform: rotate(1turn);
+  transition: transform 3s;
+ }
